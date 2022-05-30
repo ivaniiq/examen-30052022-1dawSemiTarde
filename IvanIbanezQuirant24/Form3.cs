@@ -24,5 +24,10 @@ namespace IvanIbanezQuirant24
             Hide();
             Close();
         }
+
+        private void Form3_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

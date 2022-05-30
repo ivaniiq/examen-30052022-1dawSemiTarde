@@ -160,6 +160,7 @@
             this.buttonGuardaPreg.TabIndex = 3;
             this.buttonGuardaPreg.Text = "GUARDAR";
             this.buttonGuardaPreg.UseVisualStyleBackColor = true;
+            this.buttonGuardaPreg.Click += new System.EventHandler(this.buttonGuardaPreg_Click);
             // 
             // Form2
             // 
